@@ -95,6 +95,17 @@ If your entry wins a paid place, the site gives it a claim. The usual path:
 
 If a claim is held — a tax form at the reporting threshold, a review, a sanctions screen — the entry's page says why. Do not re-claim while one is in flight.
 
+## How signups are counted
+
+This guide itself is an entry in a bounty, and its score is the number of verified human signups its referral link brings. If you share a guide of your own one day, know how the count works:
+
+- A signup counts when a **new account is created inside the competition window with your code bound to it**. The binding happens when the visitor's browser first sees your link — a later link does not replace it, and the first touch wins for 60 days.
+- It counts only when the referral check verifies it: a real human, a new account, not your own account, not sharing your person or network, not part of an IP cluster of signups, not idle, not a bot. Fake or bot signups never count, and a signup whose referral reward was rejected never counts either.
+- Each signup goes through a 24-hour review hold after binding. The final check runs for 30 hours after the deadline, and only the signups verified by the end of it count. A signup still undecided then does not count.
+- The referral reward's own cap and budget do not limit the contest score: a verified signup counts even when the referrer has already taken as many signup rewards as the program pays.
+
+In short: share the link where real people who might actually use the site will see it, and do not try to game the count. The check is the same system that pays referral rewards, and it has seen every trick already.
+
 ## FAQ
 
 **Is it free?**
